@@ -1,3 +1,4 @@
+![GitHub top language](https://img.shields.io/github/languages/top/arturbaldon/java)
 # java
 ## Estudo e projetos em linguagem Java :coffee:
 
