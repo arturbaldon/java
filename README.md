@@ -3,7 +3,7 @@
 ## Estudo e projetos em linguagem Java :coffee:
 
 001. Curso: ALGORITMOS E LÓGICA DE PROGRAMAÇÃO 2020 - O CURSO COMPLETO
-	 - Diretório: **java**
+	 - Diretório: **UDEMY-ALP2020**
 	 - Organização emissora: **Udemy** -> (www.udemy.com)
 	 - **Status**:
 	   - [X] Em andamento
