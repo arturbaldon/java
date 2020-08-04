@@ -2,7 +2,6 @@
  * PROBLEMA: "medidas"
  * VER ARQUIVO "03-estrutura-sequencial-exercicios"
  * */
-import java.awt.geom.Arc2D.Double;
 import java.util.Locale;
 import java.util.Scanner;
 
