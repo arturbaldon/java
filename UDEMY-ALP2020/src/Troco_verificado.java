@@ -1,5 +1,5 @@
 /*
- * PROBLEMA: "menor_de_tres"
+ * PROBLEMA: "troco_verificado"
  * VER ARQUIVO "04-estrutura-condicional-exercicios"
  * */
 import java.util.Locale;
