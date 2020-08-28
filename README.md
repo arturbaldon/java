@@ -6,12 +6,12 @@
 	 - Diretório: **UDEMY-ALP2020**
 	 - Organização emissora: **Udemy** -> (www.udemy.com)
 	 - **Status**:
-	   - [X] Em andamento
-	   - [ ] Concluído
+	   - [ ] Em andamento
+	   - [X] Concluído
 	 - **Certificado**:
 	   - [ ] Sim
 	   - [ ] Não
-	 - Período:
+	 - Período: 08/2020
 	 - Ambiente:
 	   - JAVA 11.0.8 (2020-07-14)
 	   - IDE Eclipse Java EE, Version 2020-03(4.15.0)
